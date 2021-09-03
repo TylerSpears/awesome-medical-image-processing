@@ -3,7 +3,7 @@
 <!-- title -->
 
 <!--lint ignore no-dead-urls-->
-# Awesome Medical Image Processing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/<YOUR GITHUB USER>/<YOUR REPO>/actions/workflows/lint.yaml/badge.svg)](https://github.com/<YOURE GITHUB USER>/<YOUR REPO>/actions/workflows/lint.yaml)
+# Awesome Medical Image Processing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/TylerSpears/awesome-medical-image-processing/actions/workflows/lint.yaml/badge.svg)](https://github.com/TylerSpears/awesome-medical-image-processing/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
@@ -28,7 +28,7 @@ Medical image processing is a research field that studies the acquisition, recon
 
 - [Legend](#legend)
 - [Software](#software)
-- [Seminal Papers](#seminal papers)
+- [Seminal Papers](#seminal-papers)
 - [Follow](#follow)
 
 <!-- CONTENT -->
