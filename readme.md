@@ -26,22 +26,46 @@ Medical image processing is a research field that studies the acquisition, recon
 
 ## Contents
 
-- [Legend](#legend)
 - [Software](#software)
-- [Seminal Papers](#seminal-papers)
+- [Datasets](#datasets)
+- [Seminal Works](#seminal-works)
 - [Follow](#follow)
+- [Legend](#legend)
 
 <!-- CONTENT -->
 
-## Legend
-
-<!-- Emojis corresponding to tags go here. -->
-
 ## Software
+
+## Datasets
+
+* [Human Connectome Project](https://db.humanconnectome.org/) - Massive multi-site brain image dataset. Hosts several offshoot brain image studies. `#brain` `#mri` `#dmri` `#fmri`
+    * [HCP Young Adult](https://www.humanconnectome.org/study/hcp-young-adult) - 1200+ subjects between 22-35 years old. Includes 3T MRI, dMRI, fMRI, MEG, behavioral, and some 7T MRI. Free public access available with registration.
+    * [HCP Lifespan](https://www.humanconnectome.org/lifespan-studies) - Studies with hundreds of subjects in a variety of age groups. Access is available through the NIMH Data Archive via an agreement through an NIH-recognized institution; more info [here](https://nda.nih.gov/ccf/lifespan-studies).
+
+## Seminal Works
 
 <!-- Critical papers in the field go here -->
 
-## Seminal Papers
+## Legend
+
+Acronyms and shorthand notations. List items may also be tagged with some of these terms. For example, `#mri` or `#x-ray`.
+
+<dl>
+  <dt>MRI</dt>
+  <dd>Magnetic Resonance Image.</dd>
+  
+  <dt>dMRI</dt>
+  <dd>Diffusion MRI.</dd>
+
+  <dt>fMRI</dt>
+  <dd>Functional MRI.</dd>
+ 
+  <dt>sMRI</dt>
+  <dd>Structural MRI. Typically refers to T1 or T2 MRIs.</dd>
+ 
+  <dt>HCP</dt>
+  <dd>Human Connectome Project</dd>
+</dl>
 
 <!-- END CONTENT -->
 
@@ -55,4 +79,5 @@ Medical image processing is a research field that studies the acquisition, recon
 
 ### Contributors
 
-[Thanks goes to these contributors](https://github.com/TylerSpears/awesome-medical-image-processing/graphs/contributors) 
+[Thanks goes to these contributors](https://github.com/TylerSpears/awesome-medical-image-processing/graphs/contributors)
+
