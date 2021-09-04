@@ -29,22 +29,27 @@ Medical image processing is a research field that studies the acquisition, recon
 - [Software](#software)
 - [Datasets](#datasets)
 - [Seminal Works](#seminal-works)
-- [Follow](#follow)
 - [Legend](#legend)
+- [Follow](#follow)
+
 
 <!-- CONTENT -->
+<!-- Disable puncuation on list items.-->
+<!--lint disable awesome-list-item-->
 
 ## Software
 
 ## Datasets
 
-* [Human Connectome Project](https://db.humanconnectome.org/) - Massive multi-site brain image dataset. Hosts several offshoot brain image studies. `#brain` `#mri` `#dmri` `#fmri`
-    * [HCP Young Adult](https://www.humanconnectome.org/study/hcp-young-adult) - 1200+ subjects between 22-35 years old. Includes 3T MRI, dMRI, fMRI, MEG, behavioral, and some 7T MRI. Free public access available with registration.
-    * [HCP Lifespan](https://www.humanconnectome.org/lifespan-studies) - Studies with hundreds of subjects in a variety of age groups. Access is available through the NIMH Data Archive via an agreement through an NIH-recognized institution; more info [here](https://nda.nih.gov/ccf/lifespan-studies).
+- [Human Connectome Project](https://db.humanconnectome.org/) - Massive multi-site brain image dataset. Hosts several offshoot brain image studies. `#brain` `#mri` `#dmri` `#fmri`
+    - [HCP Young Adult](https://www.humanconnectome.org/study/hcp-young-adult) - 1200+ subjects between 22-35 years old. Includes 3T MRI, dMRI, fMRI, MEG, behavioral, and some 7T MRI. Free public access available with registration.
+    - [HCP Lifespan](https://www.humanconnectome.org/lifespan-studies) - Studies with hundreds of subjects in a variety of age groups. Access is available through the NIMH Data Archive via an agreement through an NIH-recognized institution; more info [here](https://nda.nih.gov/ccf/lifespan-studies).
 
 ## Seminal Works
 
 <!-- Critical papers in the field go here -->
+
+<!--lint enable awesome-list-item-->
 
 ## Legend
 
